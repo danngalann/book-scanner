@@ -1,0 +1,5 @@
+.vscode
+__pycache__
+isbn.py
+Pipfile
+isbn-list.txt
