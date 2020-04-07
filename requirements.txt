@@ -1,0 +1,4 @@
+isbnlib==3.10.0
+numpy==1.18.2
+opencv-python==4.2.0.34
+pyzbar==0.1.8
